@@ -4,7 +4,7 @@ from datetime import timedelta
 
 key_file = 'key.txt' # file where you stored your private key
 
-# fill i
+# fill in
 team_id = ''
 client_id = ''
 key_id = ''
